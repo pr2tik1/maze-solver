@@ -25,6 +25,9 @@ g++ astar.cpp
 ./a.out
 
 ```
+## Glimpse of the maze
+
+![alt text](https://github.com/pr2tik1/maze-solver/blob/master/image.png?raw=true)
 
 ## Author
 Pratik Kumar
