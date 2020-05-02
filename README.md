@@ -33,4 +33,4 @@ g++ astar.cpp
 Pratik Kumar
 
 ## Acknowledgements
-This repository is developed to keep track and learn c++ programs. Credits to Udacity.
+Credits to Udacity.
