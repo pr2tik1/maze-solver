@@ -26,7 +26,7 @@ g++ astar.cpp
 ```
 ## Glimpse of the maze
 
-![alt text](https://github.com/pr2tik1/maze-solver/blob/master/image.png?raw=true)
+![alt text](https://github.com/pr2tik1/maze-solver/blob/master/image-2.png?raw=true)
 
 The board can be changed and experimented by replacing '1' with '0' or vice versa (in 1.board).
 
