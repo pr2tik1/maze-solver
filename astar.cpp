@@ -141,7 +141,7 @@ string CellString(State cell) {
     case State::kPath: return "🚙   ";
     case State::kStart: return "🏠   ";
     case State::kFinish: return "🏁   ";
-    default: return " 0   "; 
+    default: return " .   "; 
   }
 }
 
